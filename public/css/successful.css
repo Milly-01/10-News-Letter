@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.card-body{
+    background-color: #ECF2FF;  
+}
+
+.container-fluid{
+    padding: 0;
+}
